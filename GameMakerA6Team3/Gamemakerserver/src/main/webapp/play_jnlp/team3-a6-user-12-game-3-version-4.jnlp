@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://fluency.knownspace.org/webstart/student-projects/fall2011/a6/team3" >
+<information>
+<title>A6, Team 03, User 12, Game 3, Version 4</title>
+<vendor>P532</vendor>
+<homepage href="http://fluency.knownspace.org/confluence" />
+<description>Play Game JNLP for user with user ID 12 and game with game ID 3</description> 
+<description kind="short">Play Game JNLP</description>
+<icon href="kslogo.gif" />
+</information>
+<offline-allowed />
+<security>
+<all-permissions/>
+</security>
+<resources>
+<j2se version="1.6+"/>
+<jar href="team3-a6.jar" />
+</resources>
+<application-desc main-class="gamemaker.GameMaker">
+<argument>12</argument>
+<argument>3</argument>
+<argument>4</argument>
+<argument>false</argument>
+</application-desc>
+</jnlp>

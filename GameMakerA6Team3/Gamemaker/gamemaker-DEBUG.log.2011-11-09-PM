@@ -1,0 +1,8 @@
+2011-11-09 22:18:50,961 [main] INFO  log4j.GameMakerLogger - model.GameBoardModel - Before adding event to the event list, Event Count number: 0
+2011-11-09 22:18:50,971 [main] INFO  log4j.GameMakerLogger - model.GameBoardModel - After adding event to the event list. Event Count number: 1
+2011-11-09 22:27:27,926 [main] INFO  log4j.GameMakerLogger - model.GameBoardModel - Before adding event to the event list, Event Count number: 0
+2011-11-09 22:27:27,942 [main] INFO  log4j.GameMakerLogger - model.GameBoardModel - After adding event to the event list. Event Count number: 1
+2011-11-09 23:48:29,202 [main] INFO  log4j.GameMakerLogger - model.GameBoardModel - Before adding event to the event list, Event Count number: 0
+2011-11-09 23:48:29,208 [main] INFO  log4j.GameMakerLogger - model.GameBoardModel - After adding event to the event list. Event Count number: 1
+2011-11-09 23:53:19,993 [main] INFO  log4j.GameMakerLogger - model.GameBoardModel - Before adding event to the event list, Event Count number: 0
+2011-11-09 23:53:19,998 [main] INFO  log4j.GameMakerLogger - model.GameBoardModel - After adding event to the event list. Event Count number: 1
